@@ -1,31 +1,31 @@
 #task1
 
 
-# def addition(a, b):
-#     return a + b
+def addition(a, b):
+    return a + b
 
-# result = addition(10, 3)
-# print(result)
+result = addition(10, 3)
+print(result)
 
-# def subtraction(a, b):
-#     return a - b
+def subtraction(a, b):
+    return a - b
 
-# result = subtraction(10, 3)
-# print(result)
+result = subtraction(10, 3)
+print(result)
 
-# def multiplication(a, b):
-#     return a * b
+def multiplication(a, b):
+    return a * b
 
-# result = multiplication(10, 3)
-# print(result)
+result = multiplication(10, 3)
+print(result)
 
-# def division(a, b):
-#     if b == 0:
-#         return "You cannot divide by zero!"
-#     return a / b
+def division(a, b):
+    if b == 0:
+        return "You cannot divide by zero!"
+    return a / b
 
-# result = division(10, 3)
-# print(result)
+result = division(10, 3)
+print(result)
 
  #task2
 
